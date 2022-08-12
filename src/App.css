@@ -1,0 +1,24 @@
+.cardProducts{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.productDetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25px;
+}
+
+.logout{
+   position: absolute;
+   right: 5vw;
+}
+
+.form{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 8vw 0 0 8vw;
+}
